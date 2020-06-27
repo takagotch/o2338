@@ -21,24 +21,43 @@
 #comments:
 #
 #
+
+title: dbyll
+disqus: dbyll-ghost # disqus short name
+author:  
+  name: yourname  
+  email: youremail  
+  github: asd123  
+  twitter: asd123  
+  pinterest: asd123  
+  linkedin: asd123  
+  resume: asd123  
+  bio: Your stylish,  minimalist theme!  
+  email_md5: md5ofemail  
+
 #
 #
 
-title: DBYLL
+title: TKVTV
+disqus: tkvtv-ghost
 description: Your stylish, minimalist theme!
 
 name: "tkgcci"
 
 author:
-  name : "takagotch"
+  name : takagotch
+  # social
+  github: takagotch
+  twitter: takagotch
+  email: takagotch
+  email_md5: 
+  bio: allowed yall requests till my account limit goes on tails!
+  email_md5: takagotch
+  
   
 BATH_PATH:  https://takagotch.github.io/page24/  
 
-# social
-github: takagotch
-twitter: takagotch
-email: takagotch
-email_md5: 
+
 category_path: 
 # type:
   path: /categories/
