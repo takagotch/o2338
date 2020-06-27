@@ -4,27 +4,30 @@
 #
 
 #
-title: Page24
-title_separator : "-"
-subtitle:
-name :
-description :
-url:
-baseurl:
-BATH_PATH: https://takagotch.github.io/page24/
-repository: 
-teaser :
-logo :
-masthead_title :
-breadcrumbs :
-words_per_minute : 
-comments:
+#title: Page24
+#title_separator : "-"
+#subtitle:
+#name :
+#description :
+#url:
+#baseurl:
+#BATH_PATH: https://takagotch.github.io/page24/
+#repository: 
+#teaser :
+#logo :
+#masthead_title :
+#breadcrumbs :
+#words_per_minute : 
+#comments:
 #
 #
 #
 #
 
+title: DBYLL
+description: Your stylish, minimalist theme!
+
 author:
   name : "takagotch"
   
-  
+BATH_PATH:  https://takagotch.github.io/page24/  
