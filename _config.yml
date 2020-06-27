@@ -27,7 +27,27 @@
 title: DBYLL
 description: Your stylish, minimalist theme!
 
+name: "tkgcci"
+
 author:
   name : "takagotch"
   
 BATH_PATH:  https://takagotch.github.io/page24/  
+
+# social
+github: takagotch
+twitter: takagotch
+email: takagotch
+email_md5: 
+category_path: 
+# type:
+  path: /categories/
+
+tags:
+  path: /tags/
+  
+  
+sidebar_background_image: # project-block  
+  
+time: 2020  
+  
